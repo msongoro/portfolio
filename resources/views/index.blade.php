@@ -204,6 +204,15 @@
                   <p class="mt-2"><strong>Email:</strong>patrickbijampola@gmail.com</p>
                   <p><strong>Phone:</strong>+255694230173</p>
                 </div>
+             
+                <!-- Referee 3 -->
+                <div class="flex flex-col items-center p-4 text-center bg-white rounded-lg shadow-sm swiper-slide">
+                    <img src="{{ asset('images/patric_bija.jpeg') }}" alt="Referee 2" alt="referee 2" class="w-24 h-24 mb-4 rounded-full">
+                    <h3 class="text-xl font-semibold">Patric Bijampola</h3>
+                    <p class="text-gray-600">Software Developer</p>
+                    <p class="mt-2"><strong>Email:</strong>patrickbijampola@gmail.com</p>
+                    <p><strong>Phone:</strong>+255694230173</p>
+                  </div>
 
                 <!-- Add more referees as needed -->
               </div>
